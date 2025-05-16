@@ -54,7 +54,7 @@ The Python part depends on:
 Install them using:
 
 ```bash
-pip install pandas matplotlib seaborn requests
+pip install pandas matplotlib seaborn requests PyMuPDF
 ```
 
 ## Folder Structure
